@@ -29,3 +29,6 @@ In this repo, you can find my submission for the coding tasks. The fine-tuning s
     cd frontend/coding_exercises
     npm start
     ```
+## Frontend Screenshot
+![image](https://github.com/j0st/coding_exercises/assets/73901378/82dca4dc-bd1b-4de6-bde0-45bbef8fc7f4)
+
