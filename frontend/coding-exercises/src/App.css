@@ -1,0 +1,41 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  display: flex;
+  gap: 100px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.input-container,
+.response-container {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea {
+  width: 300px;
+  height: 200px;
+  resize: none;
+}
+
+button {
+  width: fit-content;
+  align-self: flex-start;
+}
+
+.diagram-container img {
+  width: auto;
+  height: 500px;
+  border: 1px solid #ccc;
+}
