@@ -1,0 +1,7 @@
+bitsandbytes==0.43.1
+fastapi==0.111.0
+peft==0.11.1
+plantuml==0.3.0
+pydantic==2.7.3
+six==1.16.0
+transformers==4.41.2
