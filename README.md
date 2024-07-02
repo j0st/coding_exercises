@@ -1,4 +1,4 @@
-# Submission Coding Exercises (Jost Markus)
+# Submission Coding Exercises
 In this repo, you can find my submission for the coding tasks. The fine-tuning script for Task 1 can be found in `fine-tuning.ipynb`. How to start the frontend and backend server for Task 2 is explained in the next section.
 
 **Note:** The weights of the fine-tuned model can be found at https://huggingface.co/jost/mistral7b_plantuml. To run the model in the backend, you require a GPU with cuda support. If a GPU is not available, a dummy PlantUML code is generated and displayed in the frontend. However, you can test the fine-tuned model in Google Colab with the free T4 GPU (as shown in `inference.ipynb`).
